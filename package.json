@@ -1,0 +1,25 @@
+{
+  "name": "trust-proxy",
+  "version": "1.0.0",
+  "description": "trust the proxy for protocol and remote IP address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/trust-proxy.git"
+  },
+  "keywords": [
+    "http",
+    "middleware",
+    "https",
+    "ssl",
+    "proxy"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/trust-proxy/issues"
+  }
+}
